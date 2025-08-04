@@ -1,6 +1,6 @@
 # MemoMate
 
-MemoMate is an easy to use notes app, built with Java on Android Studio. Submitted to Sir Jomar Tigcal for MOBDEVE (Mobile App Development)
+MemoMate is an easy to use notes app, built with Java on Android Studio.(Mobile App Development)
 
 Group Members:
 1. Riguerra, Janna
