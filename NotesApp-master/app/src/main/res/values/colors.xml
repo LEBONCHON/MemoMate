@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="ic_logo_background">#FDFAFD</color>
+    <color name="whiteAccent">#F7F9FC</color>
+    <color name="whiteAccentDark">#9CA1A8</color>
+
+    <!--    FOLDER & NOTE COLORS-->
+    <color name="folderDefault">#B1AEB1</color> <!--default category color-->
+    <!--    use "whiteAccent for the default folder color accent -->
+
+    <color name="folderRed">#FF7575</color>
+    <color name="redAccent">#FFCDD1</color>
+
+    <color name="folderOrange">#F5A623</color>
+    <color name="orangeAccent">#FFE4D1</color>
+
+    <color name="folderYellow">#FCEE40</color>
+    <color name="yellowAccent">#FFF7D1</color>
+
+    <color name="folderCyan">#73E8ED</color>
+    <color name="cyanAccent">#E2F1FF</color>
+
+    <color name="folderBlue">#6E8EFA</color>
+    <color name="blueAccent">#C9DEFF</color>
+
+    <color name="folderGreen">#C6FA84</color>
+    <color name="greenAccent">#ECF9E0</color>
+
+    <color name="folderPurple">#CF80E6</color>
+    <color name="purpleAccent">#FFDDFF</color>
+
+<!--    FONT COLORS -->
+    <color name="blackDefault">#1F1F1F</color>
+    <color name="fontRed">#F44336</color>
+    <color name="fontOrange">#EB8C00</color>
+    <color name="fontYellow">#D1A111</color>
+    <color name="fontCyan">#00BCD4</color>
+    <color name="fontBlue">#3F51B5</color>
+    <color name="fontGreen">#4CAF50</color>
+    <color name="fontPurple">#9C27B0</color>
+
+
+</resources>
